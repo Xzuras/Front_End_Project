@@ -1,0 +1,59 @@
+body {
+    background-image: url(/Users/EdgarGarcia/Desktop/Coding/FrontEnd2/lofi.gif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #f0e4e4;
+  }
+  
+  #main {
+    width: 800px;
+    font-family: "Arial, Helvetica, sans-serif", cursive;
+    /*background-color: rgb(248, 33, 0);*/
+    opacity: 80%;
+    margin: auto;
+    border-radius: 500px;
+    text-align: center;
+    padding: 20px;
+    color: rgb(14, 13, 12);
+  }
+  
+  .results {
+    width: 700px;
+    background-color: rgb(244, 141, 229);
+    opacity: 60%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .title {
+    width: 600px;
+    background-color: rgb(147, 224, 236);
+    opacity: 80%;
+    color: black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+  }
+  /*#songButton {
+    color: black;
+  } */
+  #artistButton {
+    background-color: #efe85d; 
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    
+  }
+  
+  
